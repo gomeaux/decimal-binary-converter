@@ -45,7 +45,7 @@ void bin_to_dec() {
 		}
 		z++;
 	}
-	std::cout << "\n" << str << " In binary is " << output << "\n";
+	std::cout << "\n" << str << " In decimal is " << output << "\n";
 	std::cout << "---------------------------------------------------------\n" << "\n";
 }
 int main() {
